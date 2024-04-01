@@ -1,4 +1,4 @@
-/**
+/MTIyNDIxMjQ3MTE4MzU3MzAwMg.Gd0BlH.ufIxksCt-hb0M2JCf4moDf2OWPzNfSqh_dsdeA**
  ██████╗░████████╗██╗░░██╗           
  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
  ██████╔╝░░░██║░░░░╚███╔╝░          
@@ -31,12 +31,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to Luca: http://localhost:${port}`);
+  console.log(`🔗 Powered By Luca`);
 });
 
 
-const statusMessages = ["Playing a game🕵🏻‍♂️ made by @i_amsneha"];
+const statusMessages = ["Playing a game🕵🏻‍♂️ made by @Luca Mendoza"];
 
 
 let currentIndex = 0;
@@ -52,7 +52,7 @@ async function login() {
   }
 }
 
-/**
+/MTIyNDIxMjQ3MTE4MzU3MzAwMg.Gd0BlH.ufIxksCt-hb0M2JCf4moDf2OWPzNfSqh_dsdeA**
  ██████╗░████████╗██╗░░██╗           
  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
  ██████╔╝░░░██║░░░░╚███╔╝░          
@@ -103,7 +103,7 @@ client.once('ready', () => {
 
 login();
 
-/**
+/MTIyNDIxMjQ3MTE4MzU3MzAwMg.Gd0BlH.ufIxksCt-hb0M2JCf4moDf2OWPzNfSqh_dsdeA**
  ██████╗░████████╗██╗░░██╗           
  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
  ██████╔╝░░░██║░░░░╚███╔╝░          
