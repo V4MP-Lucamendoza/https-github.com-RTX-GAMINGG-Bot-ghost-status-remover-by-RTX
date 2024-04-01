@@ -1,4 +1,4 @@
-/**
+/MTIyNDIxMjQ3MTE4MzU3MzAwMg.GLqLwf.s5_hILkutpwohxXWihK1-Z1PPdSkOGgMGveUIY**
  ██████╗░████████╗██╗░░██╗           
  ██╔══██╗╚══██╔══╝╚██╗██╔╝          
  ██████╔╝░░░██║░░░░╚███╔╝░          
@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Playing a game🕵🏻‍♂️ made by @i_amsneha"];
+const statusMessages = ["Playing a game🕵🏻‍♂️ made by @Luca mendoza"];
 
 
 let currentIndex = 0;
